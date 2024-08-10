@@ -1,0 +1,5 @@
+?c
+
+args(paste)
+
+?paste
